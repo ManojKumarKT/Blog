@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My new blog",
+      "body": "some example content",
+      "author": "Mano",
+      "id": 1
+    },
+    {
+      "title": "React tutorial",
+      "body": "learning is in progress",
+      "author": "Ninja tutorial",
+      "id": 2
+    },
+    {
+      "title": "React SetTimeout",
+      "body": "Used SetTimeout for add blog to better visible.",
+      "author": "Anu",
+      "id": 3
+    },
+    {
+      "title": "React Hook (UseHistory)",
+      "body": "After submitting the form the page returns to home page by UseHistory, using Hooks concept",
+      "author": "Mano",
+      "id": 4
+    },
+    {
+      "title": "React Hook (UseNavigate)",
+      "body": "UseNavigate hook will help us to return home page when the action was completed. ",
+      "author": "Mano",
+      "id": 5
+    }
+  ]
+}
